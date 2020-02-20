@@ -1,6 +1,6 @@
 # bib-deduplicate
 
-This is a python script tool for cleaning up duplicated bib entries. I found it super useful while writing thesis -- because you have to merge several papers with debuplicated references.
+This is a python script tool for cleaning up duplicated bib entries. I found it super useful while writing thesis -- because you have to merge several papers (you have written) with debuplicated references.
 
 #### Usage:
 ```
