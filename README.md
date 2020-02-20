@@ -82,4 +82,4 @@ example_debup.bib:
 example_dedup.bib can be directly used to generate pdf from tex.
 
 #### TODO
-Merge several bib files. Now you can simply achieve this by copying their content together and deduplicate.
+Merge several bib files. Now you can simply achieve this by copying their content together and deduplicating.
