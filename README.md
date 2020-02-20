@@ -51,7 +51,7 @@ example.bib:
 Remove duplicated he2019model
 ```
 
-example_debup.bib:
+example_dedup.bib:
 
 ```
 @inproceedings{he2017secure,
